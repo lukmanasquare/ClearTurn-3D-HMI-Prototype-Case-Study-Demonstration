@@ -269,7 +269,6 @@ UX/UI Design | 3D Visualization | Human-Centered Design
 - **Email:** [Lukman.adeyemi05@gmail.com](mailto:Lukman.adeyemi05@gmail.com)
 - **LinkedIn:** [linkedin.com/in/lukman-adeyemi0512](https://www.linkedin.com/in/lukman-adeyemi0512/)
 - **GitHub:** [github.com/lukmanasquare](https://github.com/lukmanasquare)
-- **Portfolio:** [lukman-asquarewebdesigns.com](https://lukman-asquarewebdesigns.com/)
 
 ---
 
