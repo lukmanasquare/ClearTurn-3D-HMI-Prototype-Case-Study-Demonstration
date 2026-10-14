@@ -15,11 +15,9 @@
 
 The video demonstrates ClearTurn's adaptive navigation concept within a 3D vehicle interior, showcasing the transition between navigation states and the coordination of visual information with voice guidance.
 
-**[View Full 3D Prototype Video](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)**
-
----
 
 https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
+---
 
 
 ## About
