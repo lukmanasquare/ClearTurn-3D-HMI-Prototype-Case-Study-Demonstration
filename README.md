@@ -98,7 +98,6 @@ ClearTurn changes the amount and prominence of navigation information according 
 
 **CRUISE → PREPARE → APPROACH → DECISION → CRUISE**
 
----
 
 ### ✅ Stage 1 →  CRUISE
 
