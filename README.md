@@ -34,33 +34,6 @@ The project combines 2D interface design, 3D automotive visualization, and voice
 
 ---
 
-## 🛠️ Design Tools
-
-### Blender — 3D Automotive Visualization
-
-Used to develop and present the conceptual vehicle interior, integrate the navigation interface into the dashboard display, configure camera perspectives, and produce the animated 3D demonstration.
-
-### Figma — UI/UX Design
-
-Used as part of the 2D interface design and prototyping workflow.
-
-### Stitch AI — Interface Design Exploration
-
-Used to support visual interface exploration and design development.
-
-### Additional Design Methods
-
-- Human-Centered Design
-- Automotive HMI Concepts
-- Information Hierarchy
-- Interaction Design
-- Digital Prototyping
-- 2D-to-3D Interface Integration
-- Contextual Navigation Guidance
-- Multimodal Interaction
-
----
-
 ## Project Inspiration
 
 During a recent long-distance drive from Dearborn to Grand Rapids, Michigan, I relied on the vehicle's navigation display throughout the trip. Although the navigation was helpful, I noticed myself repeatedly looking at the screen to monitor how much distance remained.
@@ -263,11 +236,30 @@ This project represents my continued development in UX/UI design, automotive HMI
 
 ---
 
-## 📺 Project Demonstration
+## 🛠️ Design Tools
 
-**[▶️ Watch ClearTurn — 3D Automotive Navigation HMI](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)**
+### Blender — 3D Automotive Visualization
 
-https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
+Used to develop and present the conceptual vehicle interior, integrate the navigation interface into the dashboard display, configure camera perspectives, and produce the animated 3D demonstration.
+
+### Figma — UI/UX Design
+
+Used as part of the 2D interface design and prototyping workflow.
+
+### Stitch AI — Interface Design Exploration
+
+Used to support visual interface exploration and design development.
+
+### Additional Design Methods
+
+- Human-Centered Design
+- Automotive HMI Concepts
+- Information Hierarchy
+- Interaction Design
+- Digital Prototyping
+- 2D-to-3D Interface Integration
+- Contextual Navigation Guidance
+- Multimodal Interaction
 
 ---
 
@@ -281,5 +273,11 @@ UX/UI Design | 3D Visualization | Human-Centered Design
 - **GitHub:** [github.com/lukmanasquare](https://github.com/lukmanasquare)
 
 ---
+
+## 📺 Project Demonstration
+
+**[▶️ Watch ClearTurn — 3D Automotive Navigation HMI](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)**
+
+https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
 
 *ClearTurn is an independent personal design concept created for portfolio demonstration and design exploration.*
