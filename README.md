@@ -7,6 +7,16 @@
 **Role:** UX/UI Designer & 3D Interaction Designer  
 
 ---
+## 🎬 3D Video Demonstration
+
+### ▶️ [Watch the ClearTurn 3D Automotive HMI Prototype](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)
+
+The video demonstrates ClearTurn's adaptive navigation concept within a 3D vehicle interior, showcasing the transition between navigation states and the coordination of visual information with voice guidance.
+
+---
+https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
+
+
 ## 🛠️ Design Tools
 
 ### Blender — 3D Automotive Visualization
@@ -33,15 +43,6 @@ Used to support visual interface exploration and design development.
 - Multimodal Interaction
 
 ---
-
-## 🎬 3D Video Demonstration
-
-### ▶️ [Watch the ClearTurn 3D Automotive HMI Prototype](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)
-
-The video demonstrates ClearTurn's adaptive navigation concept within a 3D vehicle interior, showcasing the transition between navigation states and the coordination of visual information with voice guidance.
-
----
-https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
 
 ## About
 
