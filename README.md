@@ -16,7 +16,7 @@ The case study covers the **project inspiration, problem identification, human-c
 
 Finally, the case study reflects on **lessons learned, project limitations, and opportunities for future improvements**, including interactive navigation, enhanced 3D modeling, usability testing, and personalization.
 
---
+---
 ## 🎬 3D Video Demonstration
 
 ### ▶️ [Watch the ClearTurn 3D Automotive HMI Prototype](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)
