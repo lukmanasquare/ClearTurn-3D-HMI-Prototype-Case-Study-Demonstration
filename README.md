@@ -1,5 +1,5 @@
 
-# ClearTurn, "An Adaptive Voice + Visual Highway Navigation HMI"
+# [CLEARTURN] "An Adaptive Voice + Visual Highway Navigation HMI"
 
 **Personal Automotive UX Concept + 3D Design Project | Aug. 2026 - Oct. 2026**
 
