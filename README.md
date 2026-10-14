@@ -108,8 +108,8 @@ ClearTurn changes the amount and prominence of navigation information according 
 **Design Objective:** Maintain trip awareness without presenting unnecessary navigation details.
 
 
-<!-- <img width="1672" height="905" alt="Cruise" src="https://github.com/user-attachments/assets/a3fd6251-b037-473c-a442-4ca2757fe2cf" />
- -->
+<img width="1672" height="905" alt="Cruise" src="https://github.com/user-attachments/assets/a3fd6251-b037-473c-a442-4ca2757fe2cf" />
+ 
 
 When no immediate maneuver is required, ClearTurn reduces information density and prioritizes only the driver's current route, destination, remaining distance, estimated arrival, and next important maneuver.
 
@@ -131,8 +131,8 @@ The interface remains visually quiet until an upcoming highway decision requires
 
 **Design Objective:** Provide early awareness of an upcoming highway decision.
 
-<!-- <img width="1672" height="911" alt="Prepare" src="https://github.com/user-attachments/assets/003624ef-893b-400f-a46a-b47db0066a9f" />
- -->
+<img width="1672" height="911" alt="Prepare" src="https://github.com/user-attachments/assets/003624ef-893b-400f-a46a-b47db0066a9f" />
+ 
 
 As the vehicle approaches an important highway decision, ClearTurn transitions from the calm Cruise interface to a closer road view. At five miles, the system introduces the upcoming maneuver without overwhelming the driver with detailed lane instructions.
 
@@ -153,8 +153,8 @@ As the vehicle approaches an important highway decision, ClearTurn transitions f
 **Design Objective:** Communicate the correct lane and route before reaching the highway split.
 
 
-<!-- <img width="1672" height="911" alt="Approach" src="https://github.com/user-attachments/assets/42d48535-a791-4346-96f3-8b4bbfccc9fe" />
- -->
+ <img width="1672" height="911" alt="Approach" src="https://github.com/user-attachments/assets/42d48535-a791-4346-96f3-8b4bbfccc9fe" />
+
 
 At two miles from the highway split, ClearTurn increases guidance by introducing lane-level direction while keeping the interface focused on the driver's immediate decision.
 
@@ -174,8 +174,8 @@ At two miles from the highway split, ClearTurn increases guidance by introducing
 
 **Design Objective:** Make the correct highway decision explicit at the point where directional clarity is most important.
 
-<!-- <img width="1672" height="911" alt="Decision" src="https://github.com/user-attachments/assets/342fa361-a58f-4a49-be83-f9b181f44528" />
--->
+ <img width="1672" height="911" alt="Decision" src="https://github.com/user-attachments/assets/342fa361-a58f-4a49-be83-f9b181f44528" />
+
 
 At the highway split, ClearTurn shifts to its highest level of guidance. The correct route remains highlighted in blue while repeated red X markers identify the exit the driver should avoid.
 
@@ -195,8 +195,8 @@ At the highway split, ClearTurn shifts to its highest level of guidance. The cor
 
 **Design Objective:** Confirm the completed maneuver and return the interface to normal highway navigation.
 
-<!-- <img width="1672" height="920" alt="Route Correct on I-96 West" src="https://github.com/user-attachments/assets/4557c0e9-412e-4336-811b-4219c68046ef" />
- -->
+<img width="1672" height="920" alt="Route Correct on I-96 West" src="https://github.com/user-attachments/assets/4557c0e9-412e-4336-811b-4219c68046ef" />
+
 
 After the highway decision is completed correctly, ClearTurn confirms the route and immediately reduces information intensity, returning the driver to a calm highway navigation state.
 
