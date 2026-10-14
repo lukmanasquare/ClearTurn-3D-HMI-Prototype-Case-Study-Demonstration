@@ -1,7 +1,7 @@
 
 # ClearTurn — Adaptive Voice + Visual Highway Navigation HMI
 
-**Personal Automotive UX Concept + 3D Design Project | 2026**
+**Personal Automotive UX Concept + 3D Design Project | Aug. 2026 - Oct. 2026**
 
 **Designed and developed by:** Lukman Adeyemi  
 **Role:** UX/UI Designer & 3D Interaction Designer  
