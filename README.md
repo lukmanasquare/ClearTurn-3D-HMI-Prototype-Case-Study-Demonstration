@@ -59,8 +59,6 @@ This experience led me to explore a question:
 **How might an automotive navigation system communicate trip progress and highway decisions more clearly while reducing the need for repeated visual checking?**
 
 
----
-
 ## Problem 1 - Repeated distance checking
 
 On a long highway segment, a driver may repeatedly look at the screen:
