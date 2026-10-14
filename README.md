@@ -268,16 +268,18 @@ Used to support visual interface exploration and design development.
 **Lukman Adeyemi**  
 UX/UI Design | 3D Visualization | Human-Centered Design
 
-- **Email:** [Lukman.adeyemi05@gmail.com](mailto:Lukman.adeyemi05@gmail.com)
 - **LinkedIn:** [linkedin.com/in/lukman-adeyemi0512](https://www.linkedin.com/in/lukman-adeyemi0512/)
 - **GitHub:** [github.com/lukmanasquare](https://github.com/lukmanasquare)
 
 ---
 
+*ClearTurn is an independent personal design concept created for portfolio demonstration and design exploration.*
+
+---
 ## 📺 Project Demonstration
 
 **[▶️ Watch ClearTurn — 3D Automotive Navigation HMI](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)**
 
 https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
 
-*ClearTurn is an independent personal design concept created for portfolio demonstration and design exploration.*
+
