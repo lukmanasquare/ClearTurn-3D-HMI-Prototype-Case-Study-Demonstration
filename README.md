@@ -7,6 +7,16 @@
 **Role:** UX/UI Designer & 3D Interaction Designer  
 
 ---
+
+### 📖 UX Case Study Overview
+
+This case study documents the design and development of **ClearTurn**, a personal automotive UX concept inspired by a real highway driving experience in Michigan. 
+
+The case study covers the **project inspiration, problem identification, human-centered design approach, and adaptive navigation strategy**, including five navigation stages: **Cruise → Prepare → Approach → Decision → Cruise**. It also demonstrates how 2D interface concepts were integrated into a 3D vehicle interior using **Figma, Stitch AI, and Blender**, with coordinated visual and voice guidance.
+
+Finally, the case study reflects on **lessons learned, project limitations, and opportunities for future improvements**, including interactive navigation, enhanced 3D modeling, usability testing, and personalization.
+
+--
 ## 🎬 3D Video Demonstration
 
 ### ▶️ [Watch the ClearTurn 3D Automotive HMI Prototype](https://drive.google.com/file/d/143ysiMyBbOyITd-eDN69yIRz9erDiyrt/view?usp=drive_link)
