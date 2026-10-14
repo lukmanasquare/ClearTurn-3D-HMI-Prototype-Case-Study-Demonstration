@@ -193,7 +193,7 @@ After the highway decision is completed correctly, ClearTurn confirms the route 
 
 ---
 
-## Lessons Learned, Limitations & Future Improvements
+## ✅ Lessons Learned, Limitations & Future Improvements
 
 ### Lessons Learned
 
