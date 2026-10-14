@@ -16,6 +16,11 @@ The video demonstrates ClearTurn's adaptive navigation concept within a 3D vehic
 ---
 https://github.com/user-attachments/assets/1d84dae3-3d7c-4f39-8778-dc3d14f815b9
 
+## About
+
+ClearTurn is a human-centered automotive navigation HMI (Human-Machine Interface) concept designed to explore how drivers can receive clearer highway navigation instructions while reducing the need for repeated visual checking.
+
+The project combines 2D interface design, 3D automotive visualization, and voice-guided navigation to demonstrate an adaptive navigation experience.
 
 ## 🛠️ Design Tools
 
@@ -42,14 +47,6 @@ Used to support visual interface exploration and design development.
 - Contextual Navigation Guidance
 - Multimodal Interaction
 
----
-
-## About
-
-ClearTurn is a human-centered automotive navigation HMI (Human-Machine Interface) concept designed to explore how drivers can receive clearer highway navigation instructions while reducing the need for repeated visual checking.
-
-The project combines 2D interface design, 3D automotive visualization, and voice-guided navigation to demonstrate an adaptive navigation experience.
-
 
 ## Project Inspiration
 
@@ -60,6 +57,7 @@ Highway interchanges also required additional attention. When approaching exits 
 This experience led me to explore a question:
 
 **How might an automotive navigation system communicate trip progress and highway decisions more clearly while reducing the need for repeated visual checking?**
+
 
 ---
 
