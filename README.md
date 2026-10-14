@@ -22,6 +22,8 @@ ClearTurn is a human-centered automotive navigation HMI (Human-Machine Interface
 
 The project combines 2D interface design, 3D automotive visualization, and voice-guided navigation to demonstrate an adaptive navigation experience.
 
+---
+
 ## 🛠️ Design Tools
 
 ### Blender — 3D Automotive Visualization
@@ -47,6 +49,7 @@ Used to support visual interface exploration and design development.
 - Contextual Navigation Guidance
 - Multimodal Interaction
 
+---
 
 ## Project Inspiration
 
@@ -58,6 +61,7 @@ This experience led me to explore a question:
 
 **How might an automotive navigation system communicate trip progress and highway decisions more clearly while reducing the need for repeated visual checking?**
 
+---
 
 ## Problem 1 - Repeated distance checking
 
@@ -67,6 +71,7 @@ On a long highway segment, a driver may repeatedly look at the screen:
 
 ClearTurn explores whether configurable spoken progress updates could provide that information without requiring another visual check.
 
+---
 ## Problem 2 - Highway decision uncertainty
 
 At an unfamiliar interchange, the driver needs to quickly understand:
@@ -205,10 +210,8 @@ After the highway decision is completed correctly, ClearTurn confirms the route 
 - “This design was created by Lukman Adeyemi”
 
 ---
+### Key Takeaway
 
-**Design principle:** Information should become more prominent as the driver's need to act increases, then recede after the decision has been completed.
-
----
 ClearTurn reinforced my understanding that effective automotive interface design is not simply about presenting more information, but about delivering the right information, at the right moment, in a form that supports clear and confident decisions.
 
 This project represents my continued development in UX/UI design, automotive HMI concepts, 3D visualization, and digital prototyping.
